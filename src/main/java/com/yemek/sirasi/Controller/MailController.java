@@ -28,5 +28,5 @@ public class MailController {
         return "redirect:/listele";
     }
 
-   /
+   
 }
